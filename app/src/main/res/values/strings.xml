@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">ProjecteCafeteriaDiaz</string>
-
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cafeteria">CAFETERIA</string>
+    <string name="enter">Enter</string>
+    <string name="un_nou_usuari">Un nou usuari?</string>
+    <string name="sign_in">Sign in</string>
 </resources>
